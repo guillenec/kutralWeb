@@ -7,7 +7,7 @@ function App() {
   
   return (
     <>
-      <body className='flex flex-col h-screen w-screen justify-start items-center'>
+      <body className='flex flex-col h-screen w-screen justify-start items-start'>
         <Main>
           <AppRoutes />
         </Main>
