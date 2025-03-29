@@ -3,7 +3,7 @@
 
 const PageError = () => {
   return (
-    <div>PageError</div>
+    <div className="w-full h-full grid place-content-center bg-red-400">PageError</div>
   )
 }
 
